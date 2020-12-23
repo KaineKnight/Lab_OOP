@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Console">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Console.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Town">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAgIAAAABEAAAAAQAQAIAEAACIAAAQAAABAA=</HashCode>
+      <FileName>Town.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TownIContainer">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAEAAAAAAAAABAIAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>TownIContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VectorTown">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADgACAAEAAAAAAAAAhAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TownIContainer.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_vecTown" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MapTown">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAEAAAAAAACAhAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TownIContainer.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_townMap" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="std::multimap&lt;_Kty, _Ty, _Pr, _Alloc&gt;" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAgAAAAQAA=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\map</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Alloc&gt;" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AWAEk4EqCrBsCEBAAOMIIAAyAAUEQBIghQkwgkAFUko=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
