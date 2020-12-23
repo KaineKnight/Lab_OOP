@@ -1,0 +1,7 @@
+C:\Users\xforc\source\repos\Lab1_OOP_Queue\Lab5_OOP\bin\Debug\Lab5_OOP.exe.config
+C:\Users\xforc\source\repos\Lab1_OOP_Queue\Lab5_OOP\bin\Debug\Lab5_OOP.exe
+C:\Users\xforc\source\repos\Lab1_OOP_Queue\Lab5_OOP\bin\Debug\Lab5_OOP.pdb
+C:\Users\xforc\source\repos\Lab1_OOP_Queue\Lab5_OOP\obj\Debug\Lab5_OOP.csprojAssemblyReference.cache
+C:\Users\xforc\source\repos\Lab1_OOP_Queue\Lab5_OOP\obj\Debug\Lab5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\xforc\source\repos\Lab1_OOP_Queue\Lab5_OOP\obj\Debug\Lab5_OOP.exe
+C:\Users\xforc\source\repos\Lab1_OOP_Queue\Lab5_OOP\obj\Debug\Lab5_OOP.pdb
